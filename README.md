@@ -1,4 +1,4 @@
-This program is a project that is inteded to moniter and infer a persons political stance based off of social media activity.
+# Heading1 This program is a project that is inteded to moniter and infer a persons political stance based off of social media activity.
 
 Dependecies: openai, pytesseract, os, PIL
 terminal command "pip install openai pytesseract os PIL"
