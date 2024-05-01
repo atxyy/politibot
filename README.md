@@ -3,7 +3,7 @@
 
 Dependecies: openai, pytesseract, os, PIL
 
-terminal command "pip install openai pytesseract os PIL"
+terminal command **pip install openai pytesseract os PIL**
 
 You also need to retrive an API key from OpenAI in order to use the GPT API. Insert it in the code where it says "API-KEY"
 
