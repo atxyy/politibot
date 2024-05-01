@@ -16,4 +16,7 @@ Start up Guide:
 Update Log:
 
 (1/5/24) Version 1 pushed. This contains basic functionallity. Automatically extracts text from images and sends them to 
-GPT api for policical interpriation. Testing shows most text shows consistent answers from GPT API. 
+GPT api for policical interpriation. Testing shows most text shows consistent answers from GPT API. Testing shows that
+answers are pretty consistent over the same texts with politcal data. Unrelated images were given to the bot and it would 
+have varied/changing answers. This is to be expected. Features that should be added are: Automatic account sorting, 
+csv file storage of answers linked to user and image, automation of tool. 
