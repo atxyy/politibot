@@ -12,3 +12,8 @@ Start up Guide:
 2. Create a folder named "stories" for program to loop through
 3. Insert collected images (png, jpg, jpeg) into stories folder
 4. Run code and wait for results in terminal
+
+Update Log:
+
+(1/5/24) Version 1 pushed. This contains basic functionallity. Automatically extracts text from images and sends them to 
+GPT api for policical interpriation. Testing shows most text shows consistent answers from GPT API. 
